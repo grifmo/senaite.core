@@ -21,7 +21,7 @@
 from bika.lims.exportimport.instruments.resultsimport import InstrumentCSVResultsFileParser
 from bika.lims.exportimport.instruments.instrument import GenericImport, getResultsInputFile
 
-title = "My Instrument"
+title = "Joon Instrument"
 
 class MyInstrumentCSVParser(InstrumentCSVResultsFileParser):
 
